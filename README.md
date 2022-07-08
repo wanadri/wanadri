@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hey! it's me, ADRI ✌🏻
+
+
+
+#### Things that i know
+
+* Laravel
+* NuxtJS
+* Flutter
 
 <!--
 **wanadri/wanadri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
